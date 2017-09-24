@@ -2,7 +2,7 @@
 
 ### A
 
-[Abenteuer](https://steemit.com/trending/abenteuer)
+[Abenteuer](https://steemit.com/trending/abenteuer)<br>
 [Abnehmen](https://steemit.com/trending/abnehmen)
 [Autismus](https://steemit.com/trending/autismus)
 
