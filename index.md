@@ -3,117 +3,117 @@
 ### A
 
 [Abenteuer](https://steemit.com/trending/abenteuer)<br>
-[Abnehmen](https://steemit.com/trending/abnehmen)
-[Autismus](https://steemit.com/trending/autismus)
+[Abnehmen](https://steemit.com/trending/abnehmen)<br>
+[Autismus](https://steemit.com/trending/autismus)<br>
 
 ### B
 
-[Berg](https://steemit.com/trending/berg)
-[Bibel](https://steemit.com/trending/bibel)
-[bildung](https://steemit.com/trending/bildung)
+[Berg](https://steemit.com/trending/berg)<br>
+[Bibel](https://steemit.com/trending/bibel)<br>
+[bildung](https://steemit.com/trending/bildung)<br>
 
 ### C
 
-[Christ](https://steemit.com/trending/christ)
+[Christ](https://steemit.com/trending/christ)<br>
 
 
 ### D
-[Deutsch](https://steemit.com/trending/deutsch)
+[Deutsch](https://steemit.com/trending/deutsch)<br>
 
 
 ### E
 
-[Essen](https://steemit.com/trending/essen)
-[Erfolgtipps](https://steemit.com/trending/erfolgtipps)
+[Essen](https://steemit.com/trending/essen)<br>
+[Erfolgtipps](https://steemit.com/trending/erfolgtipps)<br>
 
 ### F
 
-[Familie](https://steemit.com/trending/familie)
-[Finanzen](https://steemit.com/trending/finanzen)
-[Fotografie](https://steemit.com/trending/fotographie)
-[Fussball](https://steemit.com/trending/fussball)
+[Familie](https://steemit.com/trending/familie)<br>
+[Finanzen](https://steemit.com/trending/finanzen)<br>
+[Fotografie](https://steemit.com/trending/fotographie)<br>
+[Fussball](https://steemit.com/trending/fussball)<br>
 
 ### G
 
-[Garten](https://steemit.com/trending/garten)
-[Geld](https://steemit.com/trending/geld)
-[Geschichte](https://steemit.com/trending/geschichte)
-[Gesellschaft](https://steemit.com/trending/gesellschaft)
-[Gesundheit](https://steemit.com/trending/gesundheit)
-[GEZ](https://steemit.com/trending/gez)
-[Glaube](https://steemit.com/trending/glaube)
-[Gold](https://steemit.com/trending/gold)
+[Garten](https://steemit.com/trending/garten)<br>
+[Geld](https://steemit.com/trending/geld)<br>
+[Geschichte](https://steemit.com/trending/geschichte)<br>
+[Gesellschaft](https://steemit.com/trending/gesellschaft)<br>
+[Gesundheit](https://steemit.com/trending/gesundheit)<br>
+[GEZ](https://steemit.com/trending/gez)<br>
+[Glaube](https://steemit.com/trending/glaube)<br>
+[Gold](https://steemit.com/trending/gold)<br>
 
 ### H
 
-[Hilfe](https://steemit.com/trending/hilfe)
+[Hilfe](https://steemit.com/trending/hilfe)<br>
 
 ### I
 
-[Investment](https://steemit.com/trending/investment) (englisch und deutsch gemischt)
+[Investment](https://steemit.com/trending/investment) (englisch und deutsch gemischt)<br>
 
 ### K
 
-[Karriere](https://steemit.com/trending/karriere)
-[Krankheit](https://steemit.com/trending/krankheit)
-[Krebs](https://steemit.com/trending/krebs)
-[Kochen](https://steemit.com/trending/kochen)
-[Kunst](https://steemit.com/trending/kunst)
+[Karriere](https://steemit.com/trending/karriere)<br>
+[Krankheit](https://steemit.com/trending/krankheit)<br>
+[Krebs](https://steemit.com/trending/krebs)<br>
+[Kochen](https://steemit.com/trending/kochen)<br>
+[Kunst](https://steemit.com/trending/kunst)<br>
 
 ### L
 
-[Liebe](https://steemit.com/trending/liebe)
-[Literatur](https://steemit.com/trending/literatur)
+[Liebe](https://steemit.com/trending/liebe)<br>
+[Literatur](https://steemit.com/trending/literatur)<br>
 
 ### M
 
-[Medien](https://steemit.com/trending/medien)
-[Medizin](https://steemit.com/trending/medizin)
+[Medien](https://steemit.com/trending/medien)<br>
+[Medizin](https://steemit.com/trending/medizin)<br>
 
 ### N
 
-[Nachrichten](https://steemit.com/trending/nachrichten)
-[Natur](https://steemit.com/trending/natur) 
+[Nachrichten](https://steemit.com/trending/nachrichten)<br>
+[Natur](https://steemit.com/trending/natur)<br> 
 
 ### P
 
-[Philosophie](https://steemit.com/trending/philosophie)
-[Poesie](https://steemit.com/trending/poesie)  
-[Politik](https://steemit.com/trending/politik)
-[Psychologie](https://steemit.com/trending/psychologie)
+[Philosophie](https://steemit.com/trending/philosophie)<br>
+[Poesie](https://steemit.com/trending/poesie)<br>  
+[Politik](https://steemit.com/trending/politik)<br>
+[Psychologie](https://steemit.com/trending/psychologie)<br>
 
 ### R
 
-[Reisen](https://steemit.com/trending/reisen)
-[Romanprojekt](https://steemit.com/trending/romanprojekt)
-[Rundfunkbeitrag](https://steemit.com/trending/rundfunkbeitrag)
+[Reisen](https://steemit.com/trending/reisen)<br>
+[Romanprojekt](https://steemit.com/trending/romanprojekt)<br>
+[Rundfunkbeitrag](https://steemit.com/trending/rundfunkbeitrag)<br>
 
 ### S
 
-[Sicherheit](https://steemit.com/trending/sicherheit)
-[Silber](https://steemit.com/trending/silber)
-[Sprache](https://steemit.com/trending/sprache)
-[Sport](https://steemit.com/trending/sport) (englisch und deutsch gemischt)
-[Steuer](https://steemit.com/trending/steuer)
+[Sicherheit](https://steemit.com/trending/sicherheit)<br>
+[Silber](https://steemit.com/trending/silber)<br>
+[Sprache](https://steemit.com/trending/sprache)<br>
+[Sport](https://steemit.com/trending/sport) (englisch und deutsch gemischt)<br>
+[Steuer](https://steemit.com/trending/steuer)<br>
 
 ### T
 
-[Tiere](https://steemit.com/trending/tiere)
+[Tiere](https://steemit.com/trending/tiere)<br>
 
 ### U
 
-[Umwelt](https://steemit.com/trending/umwelt)
+[Umwelt](https://steemit.com/trending/umwelt)<br>
 
 ### W
 
-[Wirtschaft](https://steemit.com/trending/wirtschaft)
-[Wissen](https://steemit.com/trending/wissen)
-[Wahl](https://steemit.com/trending/wahl)
-[Wahlen](https://steemit.com/trending/wahlen)
+[Wirtschaft](https://steemit.com/trending/wirtschaft)<br>
+[Wissen](https://steemit.com/trending/wissen)<br>
+[Wahl](https://steemit.com/trending/wahl)<br>
+[Wahlen](https://steemit.com/trending/wahlen)<br>
 
 ### V
 
-[Vegan](https://steemit.com/trending/vegan) (englisch und deutsch gemischt)
-[Vegetarsich](https://steemit.com/trending/vegetarisch)
-[Verschwörungen](https://steemit.com/trending/verschwörungen)
-[Vorstellung](https://steemit.com/trending/vorstellung)
+[Vegan](https://steemit.com/trending/vegan) (englisch und deutsch gemischt)<br>
+[Vegetarsich](https://steemit.com/trending/vegetarisch)<br>
+[Verschwörungen](https://steemit.com/trending/verschwörungen)<br>
+[Vorstellung](https://steemit.com/trending/vorstellung)<br>
